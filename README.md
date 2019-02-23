@@ -1,5 +1,8 @@
 # Partial-Order-Graphs
 Program poG.c for computing a partial order graph from a given specification and then find and output all longest monotonically increasing sequences that can be constructed over this poset. To run use eg. poG 111
+                    
+                    
+                    
                     GNU GENERAL PUBLIC LICENSE
                        Version 3, 29 June 2007
 
